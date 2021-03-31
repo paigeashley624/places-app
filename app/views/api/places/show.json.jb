@@ -1,0 +1,5 @@
+{
+  id: @places.id,
+  name: @places.name,
+  address: @places.address,
+}
